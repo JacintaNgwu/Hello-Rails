@@ -66,18 +66,14 @@
 
 In order to run this project you need:
 
-```sh
  [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
-```
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-```sh
   [git clone](https://github.com/JacintaNgwu/Hello-Rails.git)
-```
---->
+
 
 ### Install
 
