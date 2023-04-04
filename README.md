@@ -75,7 +75,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/JacintaNgwu/Hello-Rails.git
+  [git clone](https://github.com/JacintaNgwu/Hello-Rails.git)
 ```
 --->
 
